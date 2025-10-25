@@ -1,5 +1,5 @@
-// WeatherWise - script.js
-const apiKey = "6537fe2ef6a07c219722f92039e5b8b0"; // your active key
+const apiKey = config.API_KEY;
+
 
 const form = document.getElementById('searchForm');
 const input = document.getElementById('cityInput');
