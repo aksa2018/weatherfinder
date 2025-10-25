@@ -17,12 +17,23 @@ It features dynamic backgrounds, error handling for invalid cities, and displays
 ---
 
 ## Screenshots
+**Screenshot**  
+![Screen](assets/Screenshot1.png)
 
 **Screenshot**  
-![Search Screen](assets/Screenshot2.png)
+![Screen](assets/Screenshot4.png)
+**Screenshot**  
+![Screen](assets/Screenshot2.png)
 
 **Screenshot**  
-![Error Screen](assets/Screenshot3.png)
+![Screen](assets/Screenshot3.png)
+**Screenshot**  
+![Screen](assets/Screenshot6.png)
+
+**Screenshot**  
+![Screen](assets/Screenshot5.png)
+**Screenshot**  
+![Screen](assets/Screenshot7.png)
 
 
 ---
